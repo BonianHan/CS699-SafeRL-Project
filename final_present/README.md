@@ -4,7 +4,7 @@
 |---|---|
 | `Final_Report.pdf` | Submitted final report (19 pages, B/W) |
 | `Final_Report.docx` | Editable source of the report |
-| `Final_Report_Slides.pptx` | Slide deck (15 slides — one was removed in the final pass) |
+| `Final_Report_Slides.pptx` | Slide deck (15 slides) |
 | `Final_Report_Slides.pdf` | PDF export of the deck |
 | `ppo_vs_ppolag_demo.mp4` | ~33 s merge-v0 side-by-side: PPO vs PPOLag |
 | `all_envs_demo.mp4` | 20 s sequential tour across the four scenarios |
