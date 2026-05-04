@@ -47,5 +47,5 @@ package.json
 package-lock.json
 generate_final_report.py
 
-# Allow the polished deliverables to be tracked
-!final_present/**
+# Final deliverables stay local; not pushed to GitHub.
+final_present/
