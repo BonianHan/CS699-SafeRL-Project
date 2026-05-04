@@ -1,0 +1,6 @@
+{
+  "merge-v0": "0/3 crashes  (0%)     \u00b7     actions: SLOWE 97%  IDLE 3%",
+  "highway-v0": "0/1 crashes  (0%)     \u00b7     actions: SLOWE 100%",
+  "roundabout-v0": "2/6 crashes  (33%)     \u00b7     actions: FASTE 53%  IDLE 22%  LANE_ 13%",
+  "intersection-v1": "9/18 crashes  (50%)     \u00b7     actions: FASTE 67%  LANE_ 15%  SLOWE 8%"
+}

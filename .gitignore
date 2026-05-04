@@ -1,0 +1,51 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# IDE / agents
+.claude/
+.vscode/
+.idea/
+
+# Node (only used by the slide/report generators inside final_present/)
+node_modules/
+
+# Notebooks (exploration only)
+*.ipynb
+*.ipynb_checkpoints/
+
+# Sweep / experiment artefacts (regeneratable from train.py / run_roadmap.py)
+results/
+results_*/
+roadmap_results/
+tradeoff_results/
+output/
+
+# Raw env demos (polished demos live under final_present/)
+videos/
+screenshots/
+
+# Old slide drafts (superseded by final_present/)
+slides/
+SafeRL_Midterm_Demo.pptx
+SafeRL_Proposal.pptx
+
+# Top-level scratch artefacts
+video*.mp4
+ppolag_training.png
+ppo_vs_ppolag.png
+test1.ipynb
+create_midterm_ppt.js
+package.json
+package-lock.json
+generate_final_report.py
+
+# Allow the polished deliverables to be tracked
+!final_present/**
